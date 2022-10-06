@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 kdkfjdkfjkd      
 
       Hegua
 
 kskkskkd
+=======
+LOL
+>>>>>>> master
